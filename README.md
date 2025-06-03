@@ -1,16 +1,22 @@
-## Hi there 👋
+# FlecheLocale.fr
 
-<!--
-**flechelocale/flechelocale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Une plateforme urbaine interactive pour explorer les villes de France avec des flèches directionnelles, des cartes interactives, des récits historiques, et des illustrations générées par IA.
 
-Here are some ideas to get you started:
+## Fonctionnalités
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🗺️ Carte interactive avec flèches dynamiques
+- 🧭 Filtres thématiques (Histoire, Art, Insolite…)
+- 🧠 Narrateur IA (Text-to-Speech)
+- 🖼️ Illustrations IA en temps réel
+- 🧾 Abonnements & paiements Stripe
+- 🌍 Multilingue 🇫🇷 🇬🇧
+- 📱 Mode PWA (Progressive Web App)
+- 🔐 Authentification & Dashboard Admin
+
+## Installation rapide
+
+```bash
+git clone https://github.com/flechelocale/flechelocale.git
+cd flechelocale
+npm install
+npm run dev
